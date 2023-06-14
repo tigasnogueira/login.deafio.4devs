@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Projetos\\4uCode\\Desafio4Devs\\src\\AppDesafio\\AppDesafio\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.AppDesafio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.AppDesafio.props",
+      "PackagePath": "build\\AppDesafio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.AppDesafio.props",
+      "PackagePath": "buildMultiTargeting\\AppDesafio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.AppDesafio.props",
+      "PackagePath": "buildTransitive\\AppDesafio.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

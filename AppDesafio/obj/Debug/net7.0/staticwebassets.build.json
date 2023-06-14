@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "OZNK4HJ3FS/gBT+G5RDGZR1dHSgt6/7nhdr+ugGz47o=",
+  "Source": "AppDesafio",
+  "BasePath": "_content/AppDesafio",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AppDesafio\\wwwroot",
+      "Source": "AppDesafio",
+      "ContentRoot": "C:\\Projetos\\4uCode\\Desafio4Devs\\src\\AppDesafio\\AppDesafio\\wwwroot\\",
+      "BasePath": "_content/AppDesafio",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Projetos\\4uCode\\Desafio4Devs\\src\\AppDesafio\\AppDesafio\\wwwroot\\favicon.ico",
+      "SourceId": "AppDesafio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projetos\\4uCode\\Desafio4Devs\\src\\AppDesafio\\AppDesafio\\wwwroot\\",
+      "BasePath": "_content/AppDesafio",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}
