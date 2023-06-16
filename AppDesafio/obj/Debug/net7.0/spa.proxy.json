@@ -2,7 +2,7 @@
 "SpaProxyServer": {
 "ServerUrl": "https://localhost:44450",
 "LaunchCommand": "npm start",
-"WorkingDirectory": "C:\\Projetos\\4uCode\\Desafio4Devs\\src\\AppDesafio\\AppDesafio\\ClientApp\\",
+"WorkingDirectory": "C:\\Users\\Helyon\\Source\\Repos\\login.desafio.4devs\\AppDesafio\\ClientApp\\",
 "MaxTimeoutInSeconds": "120"
 }
 }

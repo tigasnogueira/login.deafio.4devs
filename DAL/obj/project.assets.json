@@ -860,24 +860,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ruben\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Helyon\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "7.0.1",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\4uCode\\Desafio4Devs\\src\\AppDesafio\\DAL\\DAL.csproj",
+      "projectUniqueName": "C:\\Users\\Helyon\\Source\\Repos\\login.desafio.4devs\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "C:\\Projetos\\4uCode\\Desafio4Devs\\src\\AppDesafio\\DAL\\DAL.csproj",
-      "packagesPath": "C:\\Users\\ruben\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\4uCode\\Desafio4Devs\\src\\AppDesafio\\DAL\\obj\\",
+      "projectPath": "C:\\Users\\Helyon\\Source\\Repos\\login.desafio.4devs\\DAL\\DAL.csproj",
+      "packagesPath": "C:\\Users\\Helyon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Helyon\\Source\\Repos\\login.desafio.4devs\\DAL\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ruben\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Helyon\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -885,7 +880,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -929,7 +923,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

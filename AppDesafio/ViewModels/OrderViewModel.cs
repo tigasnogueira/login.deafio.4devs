@@ -9,12 +9,11 @@ using System;
 using System.Linq;
 
 
-namespace AppDesafio.ViewModels
+namespace AppDesafio.ViewModels;
+
+public class OrderViewModel
 {
-    public class OrderViewModel
-    {
-        public int Id { get; set; }
-        public decimal Discount { get; set; }
-        public string Comments { get; set; }
-    }
+    public int Id { get; set; }
+    public decimal Discount { get; set; }
+    public string Comments { get; set; }
 }
